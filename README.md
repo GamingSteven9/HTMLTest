@@ -1,2 +1,2 @@
 # HTMLTest
-A coding project for myself to try out new things with HTML and REACT
+A coding project for myself to get more familar with web development
